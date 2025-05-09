@@ -4,8 +4,8 @@ Disponibilidade de um serviço através de um servidor. A nuvem privada permite 
 OBS: Cada tipo se enquadra nas necessidade das empresas. 
 
 ##Capex e Opex
-Capital Expendidure: os custos iniciais de implantação são elevados mas tendem a reduzir, passando ao segundo tipo;
-Operational Expendidure: Custos de operação são os custos de manutenção, aluguel, luz e as despesas para manter o serviço rodando.
+Capital Expenditure: os custos iniciais de implantação são elevados mas tendem a reduzir, passando ao segundo tipo;
+Operational Expenditure: Custos de operação são os custos de manutenção, aluguel, luz e as despesas para manter o serviço rodando.
 
 ## Microsoft Azure
 Solução de serviço em nuvem que disponibiliza muitas soluções: armazenamentom, conteiners, gerenciamento, IA. 
